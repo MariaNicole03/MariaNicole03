@@ -1,16 +1,22 @@
-### Hi there 👋
+### bem vindos ao meu perfil 🖤
 
-<!--
-**MariaNicole03/MariaNicole03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu Nome é Maria Nicole Menezes Silva
 
-Here are some ideas to get you started:
+-eustudo na Alura
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+-estou aprendendo a linguagem JavaScript
+
+
+-utilizo esse espaço para organização e compartilhamento dos meus projetos desenvolvidos
+
+
+
+## você quiser entra em contato comigo 📫
+
+marianicolemenezes7@gmail.com
+
+@nick_menezes
+
+![](https://www.icegif.com/wp-content/uploads/haikyuu-icegif-25.gif)
+
